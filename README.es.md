@@ -13,6 +13,9 @@ Este desafío de la línea de comando está diseñado para que te familiarices c
 ### 👩‍🎓 Alumnos y Profesores deben seguir este paso
 
 Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
+ccm
+
+
 
 Recomendamos abrir este mismo repositorio usando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
